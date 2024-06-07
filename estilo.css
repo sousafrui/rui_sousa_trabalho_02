@@ -1,0 +1,71 @@
+body{
+    background: linear-gradient(rgba(255, 0, 0, 0.925), orange , cyan 10% 100%);
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+
+#sol{
+    width: 200px;
+}
+
+.tamanho-imagens{
+    width: 100px;
+}
+
+#filanuvens1{
+    word-spacing: 250px;
+}
+
+#filanuvens2{
+    word-spacing: 300px;
+}
+
+#filanuvens3{
+    word-spacing: 350px;
+}
+
+#filanuvens4{
+    word-spacing: 500px;
+}
+
+.tamanho-abelhas{
+    width: 30px;
+}
+#filaabelhas{
+    word-spacing: 300px;
+    margin: -80px 105px;
+}
+
+#arvore1{
+    width: 150px;
+    margin-right: 15px;
+}
+
+#arvore2{
+    width: 180px;
+    margin-right: 15px;
+}
+
+#arvore3{
+    width: 215px;
+    margin-right: 15px;
+}
+
+#arvore4{
+    width: 200px;
+    margin-right: 15px;
+}
+
+#arvore5{
+    width: 120px;
+    margin-right: 15px;
+}
+
+#terra{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(102, 67, 20);
+    margin-top: -15px;
+}
